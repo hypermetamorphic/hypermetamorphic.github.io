@@ -1,11 +1,11 @@
-# Bioinformatics, Data Science Specialist
+# Bioinformatics
 
 ### Education
--  Pharmacy Bacholr @Yarmouk uni
--  M.Sc. Data Science @PSUT
--  Ph.D. Bioinformatics in Cancer Biomedicine @Dana Farber
+-  Bacholr @
+-  M.Sc. Data Science @
+-  Ph.D. Bioinformatics in Cancer Biomedicine @
 
 ### Knowledge
--  NGS, NEXTseq, Multi-Omics
--  Security
--  WebDEv
+-  1
+-  2
+-  3
